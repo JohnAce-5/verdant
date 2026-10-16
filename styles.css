@@ -493,10 +493,13 @@ body {
 .how-it-work-card-content > p {
   color: #6f6a5c;
   font-size: 13px;
+  font-weight: 400;
 }
+
 
 @media(max-width: 640px){
   .how-it-works{
     flex-direction: column;
   }
 }
+
